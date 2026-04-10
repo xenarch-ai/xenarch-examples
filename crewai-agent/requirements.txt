@@ -1,0 +1,3 @@
+xenarch[agent,crewai]
+crewai>=0.80.0
+python-dotenv

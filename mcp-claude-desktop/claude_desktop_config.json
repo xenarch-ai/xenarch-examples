@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "xenarch": {
+      "command": "npx",
+      "args": ["@xenarch/agent-mcp"],
+      "env": {
+        "XENARCH_PRIVATE_KEY": "0xYOUR_PRIVATE_KEY",
+        "XENARCH_NETWORK": "base"
+      }
+    }
+  }
+}
