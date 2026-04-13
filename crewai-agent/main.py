@@ -30,7 +30,7 @@ researcher = Agent(
 # Task: research a gated URL
 task = Task(
     description=(
-        "Check if example.com has a Xenarch payment gate. "
+        "Check if https://gate.xenarch.dev/hello-world/ has a Xenarch payment gate. "
         "If it does, pay for access and report what you found. "
         "If not, report that the content is freely accessible."
     ),
